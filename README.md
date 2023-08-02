@@ -1,1 +1,1 @@
-# 1.stady_Cpp_allcode
+# stady_Cpp_allcode
